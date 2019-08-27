@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans';
+}
+
+.imperio {
+    background-color: red;
+}
+
+.rebelde {
+    background-color: blue;
+}
+
+.border {
+    border-style: dashed;
+}
+
+.spacing {
+    letter-spacing: 10px;
+}
+
+.align {
+    text-align: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+#vader {
+    font-size: 50px;
+}
+
+#luke {
+    font-style: italic;
+}
