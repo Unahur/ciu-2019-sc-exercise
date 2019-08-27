@@ -1,0 +1,31 @@
+body {
+    color: #333;
+    background-color: #f1f5f5;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #093A3E;
+}
+
+h2 {
+    color: #093A3E;
+}
+
+h4 {
+    color: #336699;
+}
+
+img {
+    width: 600px;
+    border-style: dotted;
+}
+
+a {
+    color: #6290C3;
+}
+
+#parrafo {
+    color: #9B1D20;
+    
+}
