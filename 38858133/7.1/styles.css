@@ -1,0 +1,9 @@
+.banner {
+    background-image: url("images/banner.jpg");
+    width: 100%;
+}
+
+h1 {
+    font-size: 35px;
+    color: whitesmoke;
+}
