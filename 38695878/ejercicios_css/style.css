@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(64, 157, 173)
+}
+
+#log{
+    color: aquamarine;
+    font-size: 200%;
+}
+
+#log:hover{
+    color: aqua
+}
+
+
+a{
+    color: aquamarine
+} 
+
+a:hover{
+    color:aqua;
+   
+}
