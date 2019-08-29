@@ -4,10 +4,13 @@ body{
     color: rgb(64, 157, 173)
 }
 
+<<<<<<< HEAD
 .navigation ul {
     list-style: none;
 }
 
+=======
+>>>>>>> f71bcfb10077cb4bd11ee836a73e4c440712b0a2
 #log{
     color: aquamarine;
     font-size: 200%;
