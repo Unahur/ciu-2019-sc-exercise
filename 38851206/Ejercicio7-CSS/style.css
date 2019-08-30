@@ -1,0 +1,94 @@
+body{
+    background-color:rgb(9, 4, 29);
+    background:-moz-linear-gradient( bottom,gray 10,black)
+}
+.final{
+    background-color: black;
+
+}
+
+
+.image{
+
+    margin-top:30;
+    margin-bottom: 20;
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+img{
+
+    border-style:solid;
+    border-width:1px;
+    border-color:white;
+}
+
+p{
+    color:white;
+    font-size:20px;
+}
+
+
+.botones{
+
+    display:flex;
+    justify-content: center;
+    margin-top: -30;
+}
+
+
+
+.op1{
+    width: 300;
+    height: 100;
+    margin-right: 900;
+    margin-top: 50;
+    background:rgb(216, 211, 211);
+    border-color:rgb(59, 59, 73);
+    color:black;
+    
+    font-size:17;
+    border-width: 5;
+    border-radius:16px;
+}
+.op2{
+
+    width: 300;
+    height: 100;
+    margin-right: 20;
+    margin-top: 50;
+    background:rgb(216, 211, 211);
+    border-color:rgb(59, 59, 73);
+    color:black;
+    
+    font-size:16;
+    border-width: 5;
+    border-radius:16px;
+    
+}
+.historia{
+    border-top:white;
+    border-left:transparent;
+    border-right: transparent;
+    border-bottom:transparent;
+    border-style:solid;
+    width: 1000;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 13 450 0 auto;
+    text-align: center;
+    margin-top:auto;
+  
+}
+
+.op1:hover{
+
+    background:gray;
+}
+#op2:hover{
+
+    background:gray;
+}
