@@ -1,0 +1,60 @@
+body {
+    background-color: lightblue;
+  }
+
+  .cueva{
+
+    background: #DC7633;
+    
+  -webkit-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+  
+  }
+
+  .green{
+
+   background: #808B96  ;
+
+  -webkit-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+  }
+
+  h1{
+
+    
+        border: 2px solid black;
+        outline: #4CAF50 solid 5px;
+        margin: auto;  
+        padding: 10px;
+        text-align: center;
+      
+  }
+
+  #h3{
+    text-align: center;
+  }
+
+  img{
+    display:block;
+    margin:auto;
+    border-radius: 10px;
+
+    }
+
+    button{
+        
+      padding: 25px 35px;
+        cursor: pointer;
+        background-image: -webkit-linear-gradient(top, #43cf18, #07682f);
+        border: 2px solid rgb(4, 11, 14);
+        border-radius: 28px;
+        
+    }
+
+    .inicio{
+
+      padding: 20px 30px;
+        cursor: pointer;
+
+        background-image: -webkit-linear-gradient(top, #a39ece, #777097);
+    }
