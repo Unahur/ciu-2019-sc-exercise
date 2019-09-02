@@ -1,0 +1,38 @@
+.imperio{
+background-color: red
+}
+
+.rebelde{
+    background-color: blue;
+}
+
+.soldados{
+    border-color: black;
+    letter-spacing: 3px;
+    border-radius: 5px;
+    border-style:  dotted;
+    border-width: 5px;
+    padding: 3px;
+    
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
+
+.apoyo{
+    text-align: center
+}
+
+.nave{
+    text-transform: uppercase
+}
+
+#db{
+    font-size: 30px;
+}
+
+#lks{
+   font-style: italic
+}
