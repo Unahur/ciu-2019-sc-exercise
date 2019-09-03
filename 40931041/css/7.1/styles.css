@@ -1,13 +1,84 @@
 body {
-    background-color: #e26d5c;
-    font-family: sans-serif;
-    text-align: center;
+    background: url(images/fondo.jpg);
+    color: #020122;
+    font-family: 'Marcellus SC', serif;
+    font-size: 17px;
+}
+
+#body1 {
+    background: url(images/fondo1.jpg);
+    color: #020122;
+    font-family: 'Marcellus SC', serif;
+    font-size: 17px;
 }
 
 img {
-    width: 800px;
+    width: 600px;
+    border: 2px solid #fafafa;
 }
 
-#principal {
-    background-color: #7d4e57;
+a {
+    color: #4a8fe7;
+}
+
+#titulo {
+    background-color: #F7A278;
+    color: #020122;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.3);
+    padding: 5px;
+    margin: 0 5px 5px 0;
+}
+
+.tituloFrio {
+    background-color: #CCFBFE;
+    color: #020122;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.3);
+    padding: 5px;
+    margin: 0 5px 5px 0;
+}
+
+.imagenCentrada {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subtitulo {
+    background-color: #F2E29F;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.3);
+    text-align: left;
+    padding: 5px;
+}
+
+.parrafo {
+    background-color: #F2E29F;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.3);
+    padding: 5px;
+    margin: 0 5px 5px 0;
+}
+
+.botonIzquierdo {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color: #000000;
+    background-color:#F7A278;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+}
+
+.botonDerecho {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color: #000000;
+    background-color: #F7A278;
+    border: 2px solid rgba(0, 0, 0, 0.8);
 }
