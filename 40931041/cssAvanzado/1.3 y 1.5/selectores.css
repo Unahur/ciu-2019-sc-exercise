@@ -62,3 +62,15 @@ label {
     font-size: 400%;
     background-color: red;
 }
+
+p:hover {
+    color: red;
+}
+
+button:active {
+    background-color: yellow;
+}
+
+input[type="text"]:focus {
+    border: 10px solid green;
+}
