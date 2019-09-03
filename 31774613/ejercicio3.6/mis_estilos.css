@@ -1,0 +1,35 @@
+ html{
+background:purple;}
+body {
+     background-color: pink;
+     border-block-end-color: cyan;
+     padding: 20px;
+ }
+ 
+ h1 {
+     color: blue;
+     initial-letter-align: center;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ h2 {
+     color: #BA521F;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ 
+ h3 {
+     color: rgb(120, 234, 88);
+     font-size-adjust: initial;
+ }
+ 
+ p {
+     color: red;
+     background-color: white;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ img {
+     height: 100px;
+     width: 100px;
+     background-color: rgb(128, 0, 60);
+ }

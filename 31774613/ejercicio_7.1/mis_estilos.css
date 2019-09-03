@@ -1,0 +1,43 @@
+p {
+    font-size: 13pt;
+    font-family: arial, helvetica;
+    font-weight: normal;
+    text-align: left;
+    color: black;
+}
+
+h1 {
+    font-size: 30pt;
+    font-family: verdana, arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgb(121, 130, 223);
+    color: black;
+}
+
+.section {
+    margin-bottom: 15px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #096c8a;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+    text-align: center;
+}
+
+a button {
+    color: blueviolet;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+}
+
+body {
+    background-color: greenyellow;
+    font-family: arial;
+    color: #22041b49;
+}

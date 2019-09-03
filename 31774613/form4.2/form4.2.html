@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title> ejercicio de form para mascotas</title>
+    <link rel="stylesheet" href="form4.2.css.html" type="text/css">
+
+
+</head>
+
+<body>
+    <h1><span id="ti">"Bienvenidos a PetBook"</span></h1>
+    <p>
+        <strong>Este es un sitio web destinado a los integrantes de nuestra familia más queridos y cercanos, nuestras fieles compañeras las mascotas,
+         en principio debemos cargar sus datos en el siguiente formulario y 
+         proximamente nuestra página los llevará a : </strong>
+    </p>
+    <ol id="lista">
+        <li>Compartir sus fotos</li>
+        <li>Comprar sus comidas favoritas</li>
+        <li>Elegir ropa y accesorios de las mejores tiendas</li>
+        <li>Sacarles turno al veterinario </li>
+        <li>Contratarles servicios </li>
+        <li>Concretar citas de juegos(porque no?)</li>
+    </ol>
+
+    <h4>Para nosotros sus mascotas son tan importantes como para usted, por ello todos nuestros productos y servicios asociados cuentan con los permisos correspondientes y están rigurosamente testeados para brindar la confiabilidad y seguridad que nos han
+        hecho crecer y ser la empresa N°1 en el país </h4>
+
+    <form>
+
+        <label>Nombre:<input type="text"  name="Nombre" placeholder="Nombre de la mascota"  required> </label> </br>
+        </br>
+        <label>hembra<input type="radio" name="genero" value="hembra" required></label>
+        </br>
+        <label>macho<input type="radio" name="genero" value="macho" required></label>
+        </br>
+        <label>Fecha de nacimiento:<input type= "date"   name="edad" placeholder="fecha de nacimiento"   required></label></br>
+        </br>
+        <label> Color:<input type="color"   name= "color"  placeholder="color" required></label></br>
+        </br>
+        <label> E-mail:<input type= "email"  name="e-mail"  placeholder="e-mail"  required ></label></br>
+        </br>
+        <label for="contraseña_usuario">Contraseña: </label> <input type="password" id="contraseña_usuario" name="contraseña" required></br>
+        </br>
+        <label for="continuar"></label><input type="submit" id="continuar" name="continuar" required></br>
+    </form>
+</body>
+
+</html>
