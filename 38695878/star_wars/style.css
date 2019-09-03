@@ -1,13 +1,19 @@
-.imperio{
-background-color: red
+
+
+#imperio_ *{
+    background-color: black;
+    color: red
 }
 
-.rebelde{
-    background-color: blue;
+ 
+
+#rebelde_ *{
+    background-color: #ffa500;
+    color: rgb(255,255,255)
 }
 
 .soldados{
-    border-color: black;
+    border-color: salmon;
     letter-spacing: 3px;
     border-radius: 5px;
     border-style:  dotted;
@@ -36,3 +42,12 @@ img{
 #lks{
    font-style: italic
 }
+
+#darth{
+    color: aqua
+ }
+
+ #luke{
+     color: blueviolet
+ }
+ 
