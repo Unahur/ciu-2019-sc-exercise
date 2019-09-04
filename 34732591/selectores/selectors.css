@@ -1,0 +1,57 @@
+body {
+    background-color: #326273;
+}
+h1 {
+    color: rgb(227,151,116);
+}
+h2 {
+    color: #EEEEEE;
+}
+li {
+    color: lightgreen;
+}
+#bordeado {
+    border: 3px solid red;
+}
+.aloha{
+    background-color: #BFAB25;
+}
+input{
+    border: 2px dashed lime;
+}
+div p {
+    font-size: 300%;
+}
+input[type=text] {
+    background-color: yellow;
+}
+a:visited {
+    color: lightgreen;
+}
+div:nth-of-type(3) p{
+    background-color: blue;
+}
+div:nth-of-type(3)>p:nth-of-type(2){
+    border: 4px solid white;
+}
+div:nth-of-type(3) span{
+    background-color: white;
+}
+input[type=checkbox ]:checked {
+    margin-left: 60px;
+}
+label {
+    text-transform: uppercase;
+}
+#ultimo::first-letter{
+    font-size: 400px;
+    background-color: red;
+}
+#parrafo:hover {
+    color: red;
+}
+#select:focus {
+    border: 12px solid yellow; 
+}
+
+
