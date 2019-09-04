@@ -3,6 +3,7 @@ body { font-family: Georgia, 'Times New Roman', Times, serif;
         color: rgb(190, 62, 62);
         text-align: center;
         background-color: rgb(44, 34, 53);
+        font-size: 23px;
 
 }
 
@@ -24,3 +25,7 @@ body { font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
+p {
+    background-color: silver;
+    
+}
