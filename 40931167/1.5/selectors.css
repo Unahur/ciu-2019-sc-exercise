@@ -1,0 +1,77 @@
+body{
+    background-color: #326273;
+}
+
+h1{
+    color: rgb(227,151,116);
+}
+
+h2{
+    color: #eeeeee;
+}
+
+li{
+    color:green;
+}
+
+#bordeado{
+    border: 3px solid red;
+}
+
+.aloha{
+   background-color: #bfab25 
+}
+
+input{
+    border: 2px dashed lime;
+}
+
+div p{
+    font-size: 300%;
+}
+
+input[type=text]{
+    background-color: yellow;
+} 
+
+a:focus{
+    color: green;
+}
+
+div:nth-of-type(3) p{
+    background-color: blue;
+}
+
+div:nth-of-type(3) p:nth-of-type(2){
+    border: 4px solid #eeeeee ;
+}
+
+div:nth-of-type(3) span{
+    background-color: #eeeeee;
+
+}
+
+:checked{
+    margin-left: 60px;
+}
+
+label{
+    text-transform: uppercase;
+}
+
+#ultimo::first-letter{
+    font-size: 400%;
+    background-color: red;
+}
+
+input[type=text]:focus{
+    border: solid green;
+}
+
+button:active{
+    background-color: #bfab25;
+}
+
+#lorem:hover{
+    color: red;
+}

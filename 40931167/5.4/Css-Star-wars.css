@@ -1,0 +1,32 @@
+.El_Imperio{
+    background-color: red;
+}
+
+.Los_rebeldes{
+    background-color: blue;
+}
+
+#Darth_Vader{
+    font-size: 20px;
+}
+
+#Luke_Skywalker{
+    font-family:italic; 
+}
+
+.Storm_Tropper{
+    border-style:solid;
+
+}
+
+.Soldado_cualunque{
+    letter-spacing:10px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform:lowercase;
+}

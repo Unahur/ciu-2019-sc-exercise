@@ -1,0 +1,23 @@
+body{
+    background:#FAEBD7;
+    font-family: 'Courier New', Courier, monospace
+}
+img{
+    width: 500x;
+    height: auto;
+}
+
+#bueno{
+    widows: 50px;
+    height: auto;
+    background-color: #00FFFF;
+    margin-bottom: 10px;
+
+}
+
+#malo{
+    widows: 50px;
+    height: auto;
+    background-color: #f80000;
+
+}
