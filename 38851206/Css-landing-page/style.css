@@ -1,0 +1,30 @@
+
+
+#container{
+
+
+    width:80%;
+    margin-left:10%;
+    
+}
+
+img{
+
+    width: 30%;
+    margin:1.4%;
+    border: 2px solid black;
+}
+p{
+    margin-left:1.4%;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom: 2px solid  red;
+    width: 50%;
+    padding-bottom: 2px;
+}
+
+a{
+
+    color:black;
+    border:0 transparent ;
+}
