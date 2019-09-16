@@ -5,28 +5,31 @@ div{
 #uno{
     background-color: grey;
     position: static;
-}
+} 
+ 
 #dos{
     background-color: orange;
     position: relative;
     top: 50px;
     left: 100px;
 }
+
 #tres{
     background-color: lime;
     position: fixed;
     width: 25%;
     bottom: 50px;
     right: 100px;    
-}
+} 
 #cuatro{
-    z-index: -1;
-    position: relative;
-}
+    z-index: 2;
+   /*  position: relative; */
+} 
+
 #cinco{
     background-color: yellow;
     width: 25%;
     top: 15px;
     left: 15px;
-    position: absolute;
-}
+    position: absolute; }
+ 

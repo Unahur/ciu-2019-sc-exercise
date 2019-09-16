@@ -1,0 +1,21 @@
+#container{
+    width:80%;
+    margin: 0% auto;
+}
+
+img{
+    width: 30%;
+    margin: 1,4%;
+    margin: left;
+}
+p{  
+    border-bottom: 10px solid red;
+    width: 50%;
+    padding: 4px;
+    margin-left:auto;
+    font-size: 40px;
+    font-family: 'Gayathri', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 4px;
+
+}

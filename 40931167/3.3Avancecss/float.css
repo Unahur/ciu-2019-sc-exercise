@@ -1,0 +1,22 @@
+
+#container{
+    width: 80%;
+    margin: 0 auto;
+    float: left;
+}
+
+#navbar{ 
+    background-color: #8aa399;
+}
+
+#sidebar{
+    width: 31%;
+    background-color: #F19953;
+    float: left;
+}
+#otro{
+    width: 90%;
+    float: left;
+    background-color: violet;
+}
+

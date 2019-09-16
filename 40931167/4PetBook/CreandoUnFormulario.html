@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Creando un formulario</title>
+</head>
+<body>
+    <h1>PetBook</h1>
+    <form>
+        <h2>Un facebook de mascotas</h2>
+        <h3>Nombre del animal</h3>
+        <input type="text" name="nombre" placeholder="mi mascota se llama..." required>
+        <h3>Edad</h3>
+        <input type="number" name="edad" placeholder=" 0 ,1 ,2 ,... " required>
+        <h3>Tipo de mascotas</h3>
+        <select name="tipo de mascotas" id="">
+            <option value="perreo/a" >perro/a</option>
+            <option value="gato/a" >gato/a</option>
+            <option value="iguana" >iguana</option>
+            <option value="conejo" >conejo/a</option>
+            <option value="vibora" >vibora</option>
+        </select>
+        <h3>Genero</h3>
+        <input type="radio" name="genero" value="macho"> <input type="radio" name="genero" value="hembra">
+        <h3>Color del animal</h3>
+        <input type="color" name="color animal" placeholder="mi mascota tiene color" required>
+        <br>
+        <br>
+        <textarea name="datosMascotas" id="" cols="40" rows="10">Contanos como es tu mascota</textarea>
+        <h3>Email del animal que tiene al animal</h3>
+        <input type="email" name="email" placeholder="perros@perrera.com" required>
+        <h3>Password</h3>
+        <input type="password" name="contraseña" placeholder="perritos123" required>
+        <br>
+        <br>
+        <input type="submit">
+      </form>
+</body>
+</html>
